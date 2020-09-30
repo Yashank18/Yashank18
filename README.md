@@ -3,7 +3,7 @@
 <a href="https://twitter.com/yashank17">
   <img align="left" alt="Yashank's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/Yashank18">
+<a href="https://www.linkedin.com/in/yashank18/">
   <img align="left" alt="Yashank's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/yashank18">
@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on [Youtube](www.youtube.com/channel/UCnHCRBFb1JbgT-xQLkqQkMQ).
 - 🤔 I’m looking for project collaborations.
 - 💬 Ask me about Flutter, React or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Yashank](https://twitter.com/yashank17) , [LinkedIn - @Yashank](https://linkedin.com/in/Yashank18)
+- 📫 How to reach me: [Twitter - @Yashank](https://twitter.com/yashank17) , [LinkedIn - @Yashank](https://www.linkedin.com/in/yashank18/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to binge watch chess streams.
 
