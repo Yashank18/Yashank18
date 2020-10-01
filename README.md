@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on React Js
 - 🌱 I’m currently learning more about Data Structures.
-- 👯 I’m looking to collaborate on [Youtube](www.youtube.com/channel/UCnHCRBFb1JbgT-xQLkqQkMQ).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCnHCRBFb1JbgT-xQLkqQkMQ).
 - 🤔 I’m looking for project collaborations.
 - 💬 Ask me about Flutter, React or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Yashank](https://twitter.com/yashank17) , [LinkedIn - @Yashank](https://www.linkedin.com/in/yashank18/)
