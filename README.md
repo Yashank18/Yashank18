@@ -12,12 +12,6 @@
 <a href="https://www.instagram.com/yashank__18/">
   <img align="left" alt="Yashank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/yashank.cool/">
-  <img align="left" alt="Yashank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCnHCRBFb1JbgT-xQLkqQkMQ">
-  <img align="left" alt="yashank's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
