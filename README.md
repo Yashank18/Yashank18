@@ -26,6 +26,3 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to binge watch chess streams.
 
-<a href="https://github.com/Yashank18">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashank18&show_icons=true&theme=light&line_height=27" alt="Yashank's github stats"/>
-</a>
